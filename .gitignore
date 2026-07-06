@@ -1,0 +1,18 @@
+# Environments
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Data
+*.db
+*.db-journal
+*.sqlite3
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.idea/
+.vscode/
