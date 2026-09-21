@@ -1,5 +1,7 @@
 # PromptDesk — AI Customer Support Agent
 
+[![test](https://github.com/shubhankar360/promptdesk/actions/workflows/test.yml/badge.svg)](https://github.com/shubhankar360/promptdesk/actions/workflows/test.yml)
+
 An LLM-powered customer support system built around **prompt engineering**: layered system prompts, few-shot classification, chain-of-thought sentiment analysis, structured JSON outputs, and retrieval-augmented generation (RAG) — all wrapped in a FastAPI backend with a live chat UI, ticket escalation, and an analytics dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688) ![License](https://img.shields.io/badge/License-MIT-green)
